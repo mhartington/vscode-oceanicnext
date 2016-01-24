@@ -1,0 +1,17 @@
+{
+	"name": "theme-oceanicnext",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": ">=0.9.0-pre.1"
+	},
+	"publisher": "mhartington",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Oceanic Next",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Oceanic%20Next.tmTheme"
+			}
+		]
+	}
+}
