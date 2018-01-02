@@ -1,8 +1,9 @@
 {
-  "name": "Oceanic Next",
-  "version": "0.0.1",
+  "name": "oceanic-next",
+  "displayName": "Oceanic Next",
+  "version": "0.0.2",
   "engines": {
-    "vscode": ">=0.9.0-pre.1"
+    "vscode": "^1.19.0"
   },
   "publisher": "mhartington",
   "repository": {
@@ -13,7 +14,7 @@
     "themes": [{
       "label": "Oceanic Next",
       "uiTheme": "vs-dark",
-      "path": "./themes/Oceanic%20Next.tmTheme"
+      "path": "./themes/Oceanic Next-color-theme.json"
     }]
   }
 }
