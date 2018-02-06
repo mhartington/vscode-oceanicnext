@@ -262,7 +262,7 @@
     "editorCursor.foreground": "#c0c5ce",
     "editor.foreground": "#CDD3DE",
     "editorWhitespace.foreground": "#65737e",
-    "editor.lineHighlightBackground": "#65737e",
+    "editor.lineHighlightBackground": "#65737e55",
     "editor.selectionBackground": "#4f5b66",
     "sideBar.background": "#1B2B34",
     "activityBar.background": "#1b2b34",
