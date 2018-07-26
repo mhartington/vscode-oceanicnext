@@ -303,8 +303,8 @@
     "tab.activeBackground": "#343d46",
     "tab.inactiveBackground": "#1b2b34",
     "tab.border": "#1b2b34",
-    "titleBar.activeForeground": "#1b2b34",
-    "titleBar.activeBackground": "#222",
+    "titleBar.activeForeground": "#cde3de",
+    "titleBar.activeBackground": "#1b2b34",
     "titleBar.inactiveForeground": "#b2b2b3",
     "titleBar.inactiveBackground": "#f6f6f6",
 
