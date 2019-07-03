@@ -306,7 +306,7 @@
     "titleBar.activeForeground": "#cde3de",
     "titleBar.activeBackground": "#1b2b34",
     "titleBar.inactiveForeground": "#b2b2b3",
-    "titleBar.inactiveBackground": "#f6f6f6",
+    "titleBar.inactiveBackground": "#1b2b34",
 
     "terminal.background": "#1b2b34",
     "terminal.foreground": "#c0c5ce",
