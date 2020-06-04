@@ -332,5 +332,6 @@
     "terminalCursor.background": "#1b2b34",
     "terminalCursor.foreground": "#c0c5ce"
   },
-  "name": "Oceanic Next"
+  "name": "Oceanic Next",
+  "semanticHighlighting": true
 }
