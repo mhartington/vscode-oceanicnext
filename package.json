@@ -1,11 +1,23 @@
 {
   "name": "oceanic-next",
   "displayName": "Oceanic Next",
-  "version": "0.0.4",
+  "description": "A dark color theme for VS Code based on the Oceanic Next color scheme",
+  "keywords": [
+    "theme",
+    "dark theme",
+    "oceanic",
+    "next"
+  ],
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.19.0"
   },
   "publisher": "mhartington",
+  "galleryBanner": {
+        "color": "#1b2b34",
+        "theme": "dark"
+    },
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/mhartington/vscode-oceanicnext"
