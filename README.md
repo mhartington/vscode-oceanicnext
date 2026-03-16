@@ -23,3 +23,12 @@ Oceanic Next is a dark, contrast-balanced theme for VS Code inspired by the orig
 1. Open the Command Palette with `Cmd/Ctrl + Shift + P`.
 2. Run `Preferences: Color Theme`.
 3. Select `Oceanic Next`.
+
+## Publish to VS Code Marketplace
+
+1. Export your Marketplace token:
+   - `export VSCE_PAT=your_token_here`
+2. Run one of the publish scripts:
+   - `npm run publish:marketplace` (patch)
+   - `npm run publish:marketplace:minor`
+   - `npm run publish:marketplace:major`

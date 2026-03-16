@@ -9,6 +9,12 @@
     "next"
   ],
   "version": "1.0.0",
+  "scripts": {
+    "package:vsix": "npx --yes @vscode/vsce package",
+    "publish:marketplace": "./scripts/publish-marketplace.sh patch",
+    "publish:marketplace:minor": "./scripts/publish-marketplace.sh minor",
+    "publish:marketplace:major": "./scripts/publish-marketplace.sh major"
+  },
   "engines": {
     "vscode": "^1.19.0"
   },
