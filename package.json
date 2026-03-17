@@ -9,6 +9,12 @@
     "next"
   ],
   "version": "1.1.0",
+  "files": [
+    "themes/*.json",
+    "icon.png",
+    "README.md",
+    "LICENSE"
+  ],
   "scripts": {
     "package:vsix": "npx --yes @vscode/vsce package",
     "publish:marketplace": "./scripts/publish-marketplace.sh patch",
