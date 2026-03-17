@@ -8,7 +8,7 @@
     "oceanic",
     "next"
   ],
-  "version": "1.0.1",
+  "version": "1.1.0",
   "scripts": {
     "package:vsix": "npx --yes @vscode/vsce package",
     "publish:marketplace": "./scripts/publish-marketplace.sh patch",
